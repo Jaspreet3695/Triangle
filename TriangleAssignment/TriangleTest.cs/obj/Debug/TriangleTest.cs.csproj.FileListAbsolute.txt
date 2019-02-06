@@ -1,0 +1,12 @@
+C:\Users\Jaspreet\source\repos\TriangleAssignment\TriangleTest.cs\bin\Debug\TriangleTest.cs.dll
+C:\Users\Jaspreet\source\repos\TriangleAssignment\TriangleTest.cs\bin\Debug\TriangleTest.cs.pdb
+C:\Users\Jaspreet\source\repos\TriangleAssignment\TriangleTest.cs\bin\Debug\nunit.framework.dll
+C:\Users\Jaspreet\source\repos\TriangleAssignment\TriangleTest.cs\bin\Debug\TriangleAssignment.exe
+C:\Users\Jaspreet\source\repos\TriangleAssignment\TriangleTest.cs\bin\Debug\TriangleAssignment.pdb
+C:\Users\Jaspreet\source\repos\TriangleAssignment\TriangleTest.cs\bin\Debug\TriangleAssignment.exe.config
+C:\Users\Jaspreet\source\repos\TriangleAssignment\TriangleTest.cs\bin\Debug\nunit.framework.xml
+C:\Users\Jaspreet\source\repos\TriangleAssignment\TriangleTest.cs\obj\Debug\TriangleTest.cs.csprojAssemblyReference.cache
+C:\Users\Jaspreet\source\repos\TriangleAssignment\TriangleTest.cs\obj\Debug\TriangleTest.cs.csproj.CoreCompileInputs.cache
+C:\Users\Jaspreet\source\repos\TriangleAssignment\TriangleTest.cs\obj\Debug\TriangleTest.cs.csproj.CopyComplete
+C:\Users\Jaspreet\source\repos\TriangleAssignment\TriangleTest.cs\obj\Debug\TriangleTest.cs.dll
+C:\Users\Jaspreet\source\repos\TriangleAssignment\TriangleTest.cs\obj\Debug\TriangleTest.cs.pdb
